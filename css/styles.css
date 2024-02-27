@@ -196,6 +196,7 @@ img {
 
 .nav-header-page {
   display: flex;
+  align-items: baseline;
 }
 
 .container {
