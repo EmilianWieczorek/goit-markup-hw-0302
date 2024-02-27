@@ -185,3 +185,44 @@ address {
   font-size: 16px;
   letter-spacing: 0.02em;
 }
+
+img {
+  display: block;
+}
+
+.page-header {
+  border-bottom: 1px solid #e7e9fc;
+}
+
+.nav-header-page {
+  display: flex;
+}
+
+.conteiner {
+  width: 1158px;
+  margin: 0 auto;
+  padding: 0 15px;
+}
+
+.nav-page {
+  display: flex;
+  align-items: center;
+}
+
+.logo-style {
+  margin-right: 76px;
+}
+
+.menu-page {
+  display: flex;
+  gap: 40px;
+}
+
+.nav-styles-link-position {
+  padding: 24px 0;
+}
+
+.contacts-style {
+  display: flex;
+  gap: 40px;
+}
