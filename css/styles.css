@@ -196,7 +196,6 @@ img {
 
 .nav-header-page {
   display: flex;
-  align-items: baseline;
 }
 
 .container {
@@ -205,9 +204,14 @@ img {
   padding: 0 15px;
 }
 
+.nav-header-page {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+}
+
 .nav-page {
   display: flex;
-  justify-content: space-between;
   align-items: center;
 }
 
@@ -231,5 +235,6 @@ img {
 
 .contacts-style {
   display: flex;
+  justify-self: end
   gap: 40px;
 }
