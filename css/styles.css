@@ -194,10 +194,10 @@ img {
   border-bottom: 1px solid #e7e9fc;
 }
 
-/*.nav-header-page {
+.nav-header-page {
   display: flex;
   align-items: baseline;
-}*/
+}
 
 .container {
   width: 1158px;
