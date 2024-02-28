@@ -237,3 +237,25 @@ img {
   display: flex;
   gap: 40px;
 }
+
+.main-section-style {
+  padding: 188px 0;
+}
+.header-style-position {
+  max-width: 496px;
+}
+.main-page {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+}
+
+.button-style-position {
+  display: block;
+  min-width: 169px;
+  height: 56px;
+  border: none;
+  background-color: #4d5ae5;
+  border-radius: 4px;
+  cursor: pointer;
+}
