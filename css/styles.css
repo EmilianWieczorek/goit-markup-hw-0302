@@ -235,6 +235,5 @@ img {
 
 .contacts-style {
   display: flex;
-  justify-self: end
   gap: 40px;
 }
