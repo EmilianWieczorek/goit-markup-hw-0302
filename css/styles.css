@@ -190,6 +190,10 @@ img {
   display: block;
 }
 
+ul {
+  padding: 0;
+}
+
 .page-header {
   border-bottom: 1px solid #e7e9fc;
 }
@@ -287,7 +291,6 @@ img {
 .text-styles-position-second-section {
   display: flex;
   gap: 24px;
-  padding: auto;
 }
 
 .third-header {
