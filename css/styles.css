@@ -230,7 +230,7 @@ img {
 }
 
 .nav-styles-link-position .nav-styles {
-  padding: 24px 0;
+  padding: 24px, 0;
 }
 
 .nav-styles-link-position {
@@ -243,7 +243,7 @@ img {
 }
 
 .main-section-style {
-  padding: 188px 0;
+  padding: 188px, 0;
 }
 .header-style-position {
   max-width: 496px;
@@ -264,11 +264,11 @@ img {
   background-color: #4d5ae5;
   border-radius: 4px;
   cursor: pointer;
-  margin: 0px auto;
+  margin: 0px, auto;
 }
 
 .second-section-styles {
-  padding: 120px 0;
+  padding: 120px, 0;
 }
 
 .visually-hidden {
@@ -295,7 +295,7 @@ img {
 }
 
 .third-section {
-  padding: 120px 0;
+  padding: 120px, 0;
 }
 
 .our-team-main-header-section-style {
@@ -354,7 +354,7 @@ img {
   flex-wrap: wrap;
   flex-direction: column;
   align-items: flex-start;
-  padding: 32px 16px;
+  padding: 32px, 16px;
   border: 1px solid #e7e9fc;
   border-top: none;
 }
