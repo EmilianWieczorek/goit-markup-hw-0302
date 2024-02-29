@@ -229,11 +229,7 @@ img {
   display: flex;
 }
 
-.nav-styles-link .nav-styles {
-  padding: 24px, 0;
-}
-
-.nav-styles-link-position {
+.nav-styles-link {
   padding: 24px, 0;
 }
 
