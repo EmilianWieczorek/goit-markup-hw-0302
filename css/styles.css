@@ -233,6 +233,10 @@ img {
   padding: 24px 0;
 }
 
+.nav-styles-link-position {
+  padding: 24px, 0;
+}
+
 .contacts-style {
   display: flex;
   gap: 40px;
