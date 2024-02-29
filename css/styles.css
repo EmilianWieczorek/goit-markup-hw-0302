@@ -264,7 +264,7 @@ img {
 }
 
 .second-section-styles {
-  padding: 120px, 0;
+  padding: 120px 0;
 }
 
 .visually-hidden {
@@ -280,6 +280,9 @@ img {
   overflow: hidden;
 }
 
+.second-section-list-item {
+}
+
 .text-styles-position-second-section {
   display: flex;
   gap: 24px;
@@ -291,7 +294,7 @@ img {
 }
 
 .third-section {
-  padding: 120px, 0;
+  padding: 120px 0;
 }
 
 .our-team-main-header-section-style {
@@ -305,11 +308,11 @@ img {
 
 .team-item {
   width: calc((100% - 72px) / 4);
-  border-radius: 0px, 0px, 4px, 4px;
+  border-radius: 0px 0px 4px 4px;
 }
 
 .third-section-team-card-elements-styles {
-  padding: 32px, 16px;
+  padding: 32px 16px;
 }
 
 .our-team-third-header-section-style {
