@@ -374,3 +374,70 @@ ul {
 .footer-paragraph {
   max-width: 264px;
 }
+
+.second-section-list-item-icon {
+  background-color: #f4f4fd;
+  width: 264px;
+  height: 112px;
+  border-radius: 4px;
+  border: 1px solid #8e8f99;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.third-section-list-item-icon {
+  background-color: #4d5ae5;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+}
+
+.third-section-list-item-icon-box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+  gap: 24px;
+  margin-bottom: 32px;
+}
+
+.footer-header {
+  color: #ffffff;
+  font-family: "roboto";
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 2%;
+}
+
+.footer-section-list-item-icon {
+  background-color: #4d5ae5;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+}
+
+.footer-list-item-icon {
+  display: flex;
+  justify-content: center;
+  align-items: baseline;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 16px;
+}
+
+.footer-header-box {
+  margin: 100px 804px 16px 120px;
+}
